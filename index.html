@@ -215,11 +215,11 @@ body{
 
     <a
         class="install"
-        href="https://1024terabox.com/s/1EH6OdEPHXaxe7tXW8DZ59Q"
+        href="https://1024terabox.com/s/19DthxoRjpyrJ1-8MaFtfXw"
         target="_blank"
         rel="noopener noreferrer">
 
-        ⬇ INSTALL NOW
+        ⬇ GET PRO ID
 
     </a>
 
