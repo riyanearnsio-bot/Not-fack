@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>VIP Proxy Server</title>
+<title>FREE FIRE PRO ID</title>
 
 <style>
 
@@ -169,7 +169,7 @@ body{
 <div class="container">
 
     <div class="activity">
-        🔥 Arjun claimed VIP proxy
+        🔥 Arjun claimed FREE FIRE PRO ID
         ✅ 1,892 users installed today
         ⚡
     </div>
@@ -203,7 +203,7 @@ body{
     </div>
 
     <div class="subtitle">
-        FREE FIRE PROXY SERVER UNLIMITED ACCESS
+        FREE FIRE PRO ID UNLIMITED ACCESS
     </div>
 
     <div class="rating">
@@ -215,7 +215,7 @@ body{
 
     <a
         class="install"
-        href="https://1024terabox.com/s/19DthxoRjpyrJ1-8MaFtfXw"
+        href="https://terasharefile.com/s/1mz39mJSjgoj_6gC0FoaJGw"
         target="_blank"
         rel="noopener noreferrer">
 
@@ -229,17 +229,17 @@ body{
 
     <div class="comment">
         <b>Arjun</b><br>
-        🔥 VIP proxy working perfectly!
+        🔥 FREE FIRE PRO ID working perfectly!
     </div>
 
     <div class="comment">
         <b>Vikas</b><br>
-        ⚡ Proxy access received.
+        ⚡ id access received.
     </div>
 
     <div class="comment">
         <b>Mohit</b><br>
-        🛡 VIP server activated.
+        🛡 FREE FIRE PRO ID activated.
     </div>
 
     <div class="comment">
@@ -252,7 +252,7 @@ body{
     </div>
 
     <div class="footer">
-        © 2026 VIP Proxy Server
+        © 2026 FREE FIRE PRO ID
     </div>
 
 </div>
@@ -260,12 +260,12 @@ body{
 <script>
 
 const activities = [
-    "🔥 Arjun claimed VIP proxy",
-    "⚡ Vikas claimed proxy access",
-    "🛡 Mohit claimed VIP server",
-    "✅ Harsh installed proxy now",
-    "🔥 Rahul claimed VIP proxy",
-    "⚡ Aman installed proxy"
+    "🔥 Arjun claimed FREE FIRE PRO ID",
+    "⚡ Vikas claimed id access",
+    "🛡 Mohit claimed FREE FIRE PRO ID",
+    "✅ Harsh installed id now",
+    "🔥 Rahul claimed FREE FIRE PRO ID",
+    "⚡ Aman installed id"
 ];
 
 let activityBox = document.querySelector(".activity");
