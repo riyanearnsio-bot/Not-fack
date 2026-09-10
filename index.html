@@ -199,7 +199,7 @@ body{
     </div>
 
     <div class="title">
-        VIP PROXY SERVER
+        FREE FIRE PRO ID
     </div>
 
     <div class="subtitle">
